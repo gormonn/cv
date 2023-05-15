@@ -18,7 +18,7 @@ I want to cultivate culture, develop my own and others' potential, and solve int
 - ESLint, Prettier;
 - HTML, Markdown, CSS, CSS-Modules, LESS, SASS, Styled-components, Linaria, Theme-UI;
 - HTTP, REST;
-- code review practice.
+- Code review practice.
 
 # Soft Skills:
 - well-developed textual communication;
@@ -33,24 +33,22 @@ I want to cultivate culture, develop my own and others' potential, and solve int
 - team management and team work;
 - often good at independent work;
 - self-study, retraining;
-- the ability to anticipate problems and suggest improvements;
-- code review.
+- the ability to anticipate problems and suggest improvements.
 
 # Achievements:
 ## At the beginning of my career:
 - Developed, supported and promoted 3 personal projects that were in demand;
 - Developed browser extension to improve UX on someone else's site;
-- Created the most similar copy of the interactive screen "boxes of luck from the game Warface" using HTML, CSS, JS and Canvas. 
+- Created the most similar copy of the interactive screen "boxes of luck from the game Warface" using HTML, CSS, JS and Canvas.
 ## In Product Development:
 - Improved the performance and loading speed of the agency website https://redcollar.co/;
 - Migrated an existing legacy VanillaJs desktop project to React;
 - Published an article about Progressive Web Apps on VC.RU;
 - Embed Posenet, Vosk Speech Recognition in existing project;
 - Delivering technical lectures within the company;
-- Developed Web-components based on “lit-html“, “lit-element“ and “haunted“. 
+- Developed Web-components based on “lit-html“, “lit-element“ and “haunted“.
 ## Other:
-- Implemented minesweeper game on Canvas + EffectorJs;
-- Created maps for CS 1.6.
+- Implemented minesweeper game on Canvas + EffectorJs.
 
 # Additional Skills:
 ## Programming:
