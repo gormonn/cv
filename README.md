@@ -48,7 +48,8 @@ I want to cultivate culture, develop my own and others' potential, and solve int
 - Delivering technical lectures within the company;
 - Developed Web-components based on “lit-html“, “lit-element“ and “haunted“.
 ## Other:
-- Implemented minesweeper game on Canvas + EffectorJs.
+- Implemented minesweeper game on Canvas + EffectorJs;
+- During my school years I created maps for CS 1.6.
 
 # Additional Skills:
 ## Programming:
