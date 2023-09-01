@@ -61,3 +61,19 @@ Neurocity
 ✓ Предлагал улучшения рабочего процесса
 ✓ Улучшил качество кода через введение ESlint
 ✓ Сделал вклад в open-source, опубликовав 3 npm пакета: [app-watchdog](https://www.npmjs.com/package/app-watchdog), [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase), [electron-vosk-speech](https://www.npmjs.com/package/electron-vosk-speech)
+
+
+
+---
+company: Cyber Arena Pro
+format: On-site
+position: Full-stack Developer
+location: Irkutsk, RU
+period: Jan 2017 – Jul 2018
+---
+- Участвовал в разработке проекта стартапа с самого основания
+- Написал с нуля весь бекенд и фронтенд проекта
+- Кранчил на постоянной основе, дорабатывая проект к маркетинговому дедлайну
+- Сервер не выдерживал наплыв пользователей после маркетинговых активностей
+- На 3ей мажорной версии проекта переключился на Frontend разработку, из-за сильного сресса и слишком большой ответственности)
+- Получил свое первое выгорание и покинул проект)

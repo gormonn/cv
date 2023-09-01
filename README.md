@@ -1,8 +1,3 @@
-Что я делаю:
-✓ Выстраиваю взаимоотношения в команде на основе проектных целей
-✓ 
-
-
 #Achievements:
 ✓ Contributed to 15 projects, with an 80% release success rate.
 ✓ Conducted R&D for 2 investment-attracting projects.
@@ -10,7 +5,13 @@
 ✓ Conducted 20 interviews in six months, hiring 3 specialists and terminating one.
 ✓ Actively contribute to open source, with 3 published modules.
 
-#Redcollar
+---
+company: Red Collar
+format: Hybrid > Remote
+location: Voronezh, RU > Istanbul, TR
+period: Jun 2021 – May 2023
+---
+
 **Development of Major Projects**:
 - Developed a massive web application with 295 screens and 11 pages, where I was the sole frontend developer.
     - **Responsibilities**: Collaborated with client developers, created 70+ components, authored 5 documents,
@@ -42,7 +43,14 @@
 Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Maker-with-Smartphone-Vibe?tracking_source=search_projects|bronitex), Dribble: [One](https://dribbble.com/shots/21665489-Down-to-a-Thread-Impeccable-3D-for-Glove-Maker-Bronitex), [Two](https://dribbble.com/shots/21503782-Bronitex-Flagship-Smartphone-Vibe-for-Work-Gloves-Store), [Three](https://dribbble.com/shots/21633308-Bronitex-Smooth-Store-to-Sell-Work-Gloves-Online), 1st Place on: [GoldenSite 2022](https://2022.goldensite.ru/work/best-design-company-services/9050/), [WDA](https://workspace.ru/awards/cases/korporativnyy-sayt-dlya-proizvoditelya-perchatok-bronitex/)
 (2) The article is published on Cossa [Read in 6.5 minutes](https://www.cossa.ru/special/mobile/308554/)
 
-#Neurocity
+
+---
+company: NeuroCity
+format: On-site
+location: Voronezh, RU
+period: Apr 2020 – Apr 2021
+---
+
 **Development of Major Projects**:
 - Contributed to four Full-stack projects for Electronic Kiosks for clients: [MosMetro](https://mosmetro.ru/), [Afimall](https://afimall.ru/), [KARO](https://karofilm.ru/), [Tsum](https://www.tsum.ru/).
 - Developed a monitoring system based on Redis and Node.js for collecting statistics and incident notifications.
@@ -58,3 +66,45 @@ Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Mak
 - Proposed workflow enhancements.
 - Elevated code quality through the introduction of ESlint.
 - Contributed to open-source by publishing three npm packages: [app-watchdog](https://www.npmjs.com/package/app-watchdog), [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase), [electron-vosk-speech](https://www.npmjs.com/package/electron-vosk-speech).
+
+Career Break  	 Jun 2019 – Apr 2020
+
+
+---
+company: null
+format: Career Break
+position: null
+location: Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU
+period: Sep 2018 – Jun 2019
+---
+
+During this period, I started hormone replacement therapy, prompting me to temporarily shift my focus from professional responsibilities to self-discovery and skill development. This allowed me to better understand myself, my values, and my life and career goals. Active engagement with diverse individuals improved my communication and teamwork skills. This experience heightened my self-awareness and enriched my skill set, both vital for success in life and collaborative work.
+
+---
+company: Innopolis
+format: On-site
+position: Full-stack Developer
+location: Innopolis, Republic of Tatarstan, RU
+period: Sep 2018 – Jun 2019
+---
+
+- Participated in three Frontend projects for GIS. Admin panel development.
+- Call the team once a day, task scheduling and cross code reviews
+- Created a dozen components for the UI library
+- Quit this job and took a long career break
+
+
+
+---
+company: Cyber Arena Pro
+format: On-site
+position: Full-stack Developer
+location: Irkutsk, RU
+period: Jan 2017 – Jul 2018
+---
+- Participated in the development of a startup project from its inception.
+- Developed both the backend and frontend of the project from scratch.
+- Continuously crunched, fine-tuning the project to meet marketing deadlines.
+- The server couldn't handle the influx of users after marketing activities.
+- Transitioned to frontend development on the project's third major version due to stress and excessive responsibility.
+- Experienced my first burnout and left the project.
