@@ -1,71 +1,60 @@
-Willing to relocate. Portugal and Japan is preferred. Open for offers.
-Citizen of Russia. Currently located in Turkey.
+Что я делаю:
+✓ Выстраиваю взаимоотношения в команде на основе проектных целей
+✓ 
 
-I am a Senior Frontend Developer.
-For 9 years I have been developing projects of varying complexity, from websites to web apps.
-I can easily understand legacy code, find problems and fix bugs. 
 
-First of all, I want to create new projects from scratch and control the development process. By creating code that is easy to maintain.
+#Achievements:
+✓ Contributed to 15 projects, with an 80% release success rate.
+✓ Conducted R&D for 2 investment-attracting projects.
+✓ Led a frontend development team.
+✓ Conducted 20 interviews in six months, hiring 3 specialists and terminating one.
+✓ Actively contribute to open source, with 3 published modules.
 
-I want to cultivate culture, develop my own and others' potential, and solve interesting problems.
+#Redcollar
+**Development of Major Projects**:
+- Developed a massive web application with 295 screens and 11 pages, where I was the sole frontend developer.
+    - **Responsibilities**: Collaborated with client developers, created 70+ components, authored 5 documents,
+      accelerated development by 1.5x through code generation, created and closed 1500+ tasks, conducted 48 impressive demonstrations,
+      reported 1 bug in the Blink engine (chromium) (Issue №1262745).
+    - **Impact**: The client was very pleased, consistently paying for each sprint throughout the development.
+- Contributed to a cool internal startup with a 7-member team.
+    - **Responsibilities**: Closed 110 tasks, including features, bug fixes, and refactoring, conducted 40+ code reviews.
+    - **Impact**: We created an excellent product and secured funding from Skolkovo Innovation Center.
+- Managed a young development team consisting of two frontend developers.
+    - **Responsibilities**: Led 2 frontend developers, architecture implementation, task planning and assignment.
+    - **Impact**: We completed 30% of the project within a month, but we fell behind the client's schedule, resulting in the client leaving, and one developer being let go.
 
-# Core Hard Skills:
-- Linux, MacOS, Windows, WSL
-- TypeScript, JavaScript;
-- NodeJs, npm, yarn, git;
-- ReactJs, Redux, RTKQuery, Effector, FSD methodology;
-- Webpack, Vite, code-generation;
-- ESLint, Prettier;
-- HTML, Markdown, CSS, CSS-Modules, LESS, SASS, Styled-components, Linaria, Theme-UI;
-- HTTP, REST;
-- Code review practice.
+**Project Support**:
+- Optimized First Contentful Paint on [redcollar.co](https://redcollar.co/) to achieve a 0.5s score in Lighthouse.
+- Localized [bronitex.ru](https://bronitex.ru/) into English for a demo (1).
+- Closed 14 tasks on [vivace-rf.ru](https://vivace-rf.ru/), [sistema.com](https://sistema.com/), and other company projects.
 
-# Soft Skills:
-- well-developed textual communication;
-- attention to details;
-- love to optimize processes;
-- love to solve problems;
-- I often abstract in favor of solving problems.
-- I have developed critical thinking;
-- empathic, tactful, non-toxic, not-conflict, open-minded and straightforward person;
-- I can work remotely, but I also love the office;
-- conduct technical interviews with candidates;
-- team management and team work;
-- often good at independent work;
-- self-study, retraining;
-- the ability to anticipate problems and suggest improvements.
+**Publications**:
+- Wrote an article on PWA (published on Cossa) (2).
 
-# Achievements:
-## At the beginning of my career:
-- Developed, supported and promoted 3 personal projects that were in demand;
-- Developed browser extension to improve UX on someone else's site;
-- Created the most similar copy of the interactive screen "boxes of luck from the game Warface" using HTML, CSS, JS and Canvas.
-## In Product Development:
-- Improved the performance and loading speed of the agency website https://redcollar.co/;
-- Migrated an existing legacy VanillaJs desktop project to React;
-- Published an article about Progressive Web Apps on VC.RU;
-- Embed Posenet, Vosk Speech Recognition in existing project;
-- Delivering technical lectures within the company;
-- Developed Web-components based on “lit-html“, “lit-element“ and “haunted“.
-## Other:
-- Implemented minesweeper game on Canvas + EffectorJs;
-- During my school years I created maps for CS 1.6.
+**Other Activities**:
+- Conducted 15 interviews with React developer candidates.
+- Hired three talented specialists and gained experience in terminating one.
+- Delivered 2 lectures at internal conferences.
+- Contributed to corporate code quality standards and onboarding of new employees.
 
-# Additional Skills:
-## Programming:
-- GraphQL-server;
-- NextJs, Gatsby, SolidJs, ElectronJs, ThreeJs, ExtJs;
-- Mobx, RxJs, Canvas, Web-components, Web Worker;
-- Researched PWA, Worklets, Workers, WASM;
-- Web Accessibility;
-- BEM methodology;
-- GSAP, D3Js;
-- DB: Redis, MySQL, PostgreSQL, MongoDB;
-- CMS: MODxRevo, Wordpress, Magento, Joomla;
-- Used Languages: Bash, Elm, PHP, Lua, VBA, C#;
-- Laravel, GD, ImageMagic;
-- Apache, nginx;
-## Graphics:
-- 3DsMax, Blender, Valve Hammer Editor;
-- Corel Draw, Macromedia Flash, Action Script;
-- Photoshop.
+(1) [bronitex.ru](https://bronitex.ru/): Text translation, graphics, code changes, and coordination with other departments.
+Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Maker-with-Smartphone-Vibe?tracking_source=search_projects|bronitex), Dribble: [One](https://dribbble.com/shots/21665489-Down-to-a-Thread-Impeccable-3D-for-Glove-Maker-Bronitex), [Two](https://dribbble.com/shots/21503782-Bronitex-Flagship-Smartphone-Vibe-for-Work-Gloves-Store), [Three](https://dribbble.com/shots/21633308-Bronitex-Smooth-Store-to-Sell-Work-Gloves-Online), 1st Place on: [GoldenSite 2022](https://2022.goldensite.ru/work/best-design-company-services/9050/), [WDA](https://workspace.ru/awards/cases/korporativnyy-sayt-dlya-proizvoditelya-perchatok-bronitex/)
+(2) The article is published on Cossa [Read in 6.5 minutes](https://www.cossa.ru/special/mobile/308554/)
+
+#Neurocity
+**Development of Major Projects**:
+- Contributed to four Full-stack projects for Electronic Kiosks for clients: [MosMetro](https://mosmetro.ru/), [Afimall](https://afimall.ru/), [KARO](https://karofilm.ru/), [Tsum](https://www.tsum.ru/).
+- Developed a monitoring system based on Redis and Node.js for collecting statistics and incident notifications.
+
+**Research and development as sole developer**:
+- Maintained a development journal spanning 65 pages.
+- Successfully implemented three proofs of concept:
+    - Integrated [VOSK](https://alphacephei.com/vosk/) into an existing Electron.js project.
+    - Achieved avatar generation from a single photo using [PIFu](https://shunsukesaito.github.io/PIFu/).
+    - Implemented an autonomous device reboot method using a Watchdog timer.
+
+**Other Activities**:
+- Proposed workflow enhancements.
+- Elevated code quality through the introduction of ESlint.
+- Contributed to open-source by publishing three npm packages: [app-watchdog](https://www.npmjs.com/package/app-watchdog), [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase), [electron-vosk-speech](https://www.npmjs.com/package/electron-vosk-speech).
