@@ -8,7 +8,8 @@
 
 | company  |  format | position  |  location |  period |
 |---|---|---|---|---|
-|  Red Collar | Hybrid > Remote  | Frontend Developer | Voronezh, RU > Istanbul, TR |  Jun 2021 – May 2023  |
+|  Red Collar | Hybrid  | Frontend Developer | Voronezh, RU |  Jun 2021 – Sep 2022  |
+|  Red Collar | Remote  | Frontend Developer | Istanbul, TR |  Sep 2022 – May 2023  |
 
 
 **Development of Major Projects**:
