@@ -66,7 +66,7 @@ Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Mak
 
 |   format | location |  period |
 |---|---|---|
-|  Career Break  | Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU  |  Jun 2019 – Apr 2020 |
+|  Sabbatical  | Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU  |  Jun 2019 – Apr 2020 |
 
 During this period, I started hormone replacement therapy, prompting me to temporarily shift my focus from professional responsibilities to self-discovery and skill development. This allowed me to better understand myself, my values, and my life and career goals. Active engagement with diverse individuals improved my communication and teamwork skills. This experience heightened my self-awareness and enriched my skill set, both vital for success in life and collaborative work.
 
