@@ -1,16 +1,19 @@
-#Achievements:
+# Achievements:
 ✓ Contributed to 15 projects, with an 80% release success rate.
+
 ✓ Conducted R&D for 2 investment-attracting projects.
+
 ✓ Led a frontend development team.
+
 ✓ Conducted 20 interviews in six months, hiring 3 specialists and terminating one.
+
 ✓ Actively contribute to open source, with 3 published modules.
 
----
-company: Red Collar
-format: Hybrid > Remote
-location: Voronezh, RU > Istanbul, TR
-period: Jun 2021 – May 2023
----
+
+| company  |  format | position  |  location |  period |
+|---|---|---|---|---|
+|  Red Collar | Hybrid > Remote  | Frontend Developer | Voronezh, RU > Istanbul, TR |  Jun 2021 – May 2023  |
+
 
 **Development of Major Projects**:
 - Developed a massive web application with 295 screens and 11 pages, where I was the sole frontend developer.
@@ -44,12 +47,10 @@ Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Mak
 (2) The article is published on Cossa [Read in 6.5 minutes](https://www.cossa.ru/special/mobile/308554/)
 
 
----
-company: NeuroCity
-format: On-site
-location: Voronezh, RU
-period: Apr 2020 – Apr 2021
----
+| company  |  format | position  |  location |  period |
+|---|---|---|---|---|
+|  NeuroCity | On-site  | Full-stack Developer | Voronezh, RU  |  Apr 2020 – Apr 2021  |
+ 
 
 **Development of Major Projects**:
 - Contributed to four Full-stack projects for Electronic Kiosks for clients: [MosMetro](https://mosmetro.ru/), [Afimall](https://afimall.ru/), [KARO](https://karofilm.ru/), [Tsum](https://www.tsum.ru/).
@@ -67,26 +68,19 @@ period: Apr 2020 – Apr 2021
 - Elevated code quality through the introduction of ESlint.
 - Contributed to open-source by publishing three npm packages: [app-watchdog](https://www.npmjs.com/package/app-watchdog), [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase), [electron-vosk-speech](https://www.npmjs.com/package/electron-vosk-speech).
 
-Career Break  	 Jun 2019 – Apr 2020
+
+|   format | location |  period |
+|---|---|---|
+|  Career Break  | Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU  |  Jun 2019 – Apr 2020 |
 
 
----
-company: null
-format: Career Break
-position: null
-location: Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU
-period: Sep 2018 – Jun 2019
----
 
 During this period, I started hormone replacement therapy, prompting me to temporarily shift my focus from professional responsibilities to self-discovery and skill development. This allowed me to better understand myself, my values, and my life and career goals. Active engagement with diverse individuals improved my communication and teamwork skills. This experience heightened my self-awareness and enriched my skill set, both vital for success in life and collaborative work.
 
----
-company: Innopolis
-format: On-site
-position: Full-stack Developer
-location: Innopolis, Republic of Tatarstan, RU
-period: Sep 2018 – Jun 2019
----
+| company  |  format | position  |  location |  period |
+|---|---|---|---|---|
+|  Innopolis | On-site  | Full-stack Developer | Innopolis, Republic of Tatarstan, RU  |  Sep 2018 – Jun 2019  |
+
 
 - Participated in three Frontend projects for GIS. Admin panel development.
 - Call the team once a day, task scheduling and cross code reviews
@@ -95,13 +89,10 @@ period: Sep 2018 – Jun 2019
 
 
 
----
-company: Cyber Arena Pro
-format: On-site
-position: Full-stack Developer
-location: Irkutsk, RU
-period: Jan 2017 – Jul 2018
----
+| company  |  format | position  |  location |  period |
+|---|---|---|---|---|
+|  Cyber Arena Pro | On-site  | Full-stack Developer  | Irkutsk, RU  | Jan 2017 – Jul 2018  |
+
 - Participated in the development of a startup project from its inception.
 - Developed both the backend and frontend of the project from scratch.
 - Continuously crunched, fine-tuning the project to meet marketing deadlines.
