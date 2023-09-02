@@ -29,7 +29,7 @@
 - Closed 14 tasks on [vivace-rf.ru](https://vivace-rf.ru/), [sistema.com](https://sistema.com/), and other company projects.
 
 **Publications**:
-- Wrote an article on PWA (published on Cossa) (2).
+- Wrote an article about PWA (published on Cossa) (2).
 
 **Other Activities**:
 - Conducted 15 interviews with React developer candidates.
