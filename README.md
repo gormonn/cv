@@ -14,16 +14,14 @@
 
 **Development of Major Projects**:
 - Developed a massive web application with 295 screens and 11 pages, where I was the sole frontend developer.
-    - **Responsibilities**: Collaborated with client developers, created 70+ components, authored 5 documents,
-      accelerated development by 1.5x through code generation, created and closed 1500+ tasks, conducted 48 impressive demonstrations,
-      reported 1 bug in the Blink engine (chromium) (Issue №1262745).
-    - **Impact**: The client was very pleased, consistently paying for each sprint throughout the development.
+    - Collaborated with client developers, created 70+ components, authored 5 documents, accelerated development by 1.5x through code generation, created and closed 1500+ tasks, conducted 48 impressive demonstrations, reported one bug in the Blink engine (chromium) (Issue №1262745).
+    - The client was very pleased, consistently paying for each sprint throughout the development.
 - Contributed to a cool internal startup with a 7-member team.
-    - **Responsibilities**: Closed 110 tasks, including features, bug fixes, and refactoring, conducted 40+ code reviews.
-    - **Impact**: We created an excellent product and secured funding from Skolkovo Innovation Center.
+    - Closed 110 tasks, including features, bug fixes, and refactoring, conducted 40+ code reviews.
+    - We created an excellent product and secured funding from Skolkovo Innovation Center.
 - Managed a young development team consisting of two frontend developers.
-    - **Responsibilities**: Led 2 frontend developers, architecture implementation, task planning and assignment.
-    - **Impact**: We completed 30% of the project within a month, but we fell behind the client's schedule, resulting in the client leaving, and one developer being let go.
+    - Led two frontend developers, architecture implementation, task planning and assignment.
+    - We completed 30% of the project within a month, but we fell behind the client's schedule, resulting in the client leaving, and one developer being let go.
 
 **Project Support**:
 - Optimized First Contentful Paint on [redcollar.co](https://redcollar.co/) to achieve a 0.5s score in Lighthouse.
@@ -70,8 +68,6 @@ Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Mak
 |---|---|---|
 |  Career Break  | Irkutsk, Bratsk, Ust-Ilimsk, Ulan-Ude, Krasnoyarsk, RU  |  Jun 2019 – Apr 2020 |
 
-
-
 During this period, I started hormone replacement therapy, prompting me to temporarily shift my focus from professional responsibilities to self-discovery and skill development. This allowed me to better understand myself, my values, and my life and career goals. Active engagement with diverse individuals improved my communication and teamwork skills. This experience heightened my self-awareness and enriched my skill set, both vital for success in life and collaborative work.
 
 | company  |  format | position  |  location |  period |
@@ -82,9 +78,6 @@ During this period, I started hormone replacement therapy, prompting me to tempo
 - Participated in three Frontend projects for GIS. Admin panel development.
 - Call the team once a day, task scheduling and cross code reviews
 - Created a dozen components for the UI library
-- Quit this job and took a long career break
-
-
 
 | company  |  format | position  |  location |  period |
 |---|---|---|---|---|
@@ -95,4 +88,4 @@ During this period, I started hormone replacement therapy, prompting me to tempo
 - Continuously crunched, fine-tuning the project to meet marketing deadlines.
 - The server couldn't handle the influx of users after marketing activities.
 - Transitioned to frontend development on the project's third major version due to stress and excessive responsibility.
-- Experienced my first burnout and left the project.
+- Experienced my first burnout.
