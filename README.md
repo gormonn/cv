@@ -1,13 +1,9 @@
 # Achievements:
-✓ Contributed to 15 projects, with an 80% release success rate.
-
-✓ Conducted R&D for 2 investment-attracting projects.
-
-✓ Led a frontend development team.
-
-✓ Conducted 20 interviews in six months, hiring 3 specialists and terminating one.
-
-✓ Actively contribute to open source, with 3 published modules.
+- Contributed to 15 projects, with an 80% release success rate.
+- Conducted R&D for 2 investment-attracting projects.
+- Led a frontend development team.
+- Conducted 20 interviews in six months, hiring 3 specialists and terminating one.
+- Actively contribute to open source, with 3 published modules.
 
 
 | company  |  format | position  |  location |  period |
